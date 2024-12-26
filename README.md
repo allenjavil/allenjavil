@@ -4,4 +4,4 @@
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/allenga777/) or [Instagram](https://www.instagram.com/allenjavil/)! Happy to connect.
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I am originally from Mexico (specifically from Veracruz). Thus, I am a geek for Mexican history and love Mexican food 😋.
-- ⏰ My goal for 2025 is to create a weekly coding project, mainly focusing on web/game development, data science, and problem-solving algorithms.
+- ⏰ My goal for 2025 is to create a weekly coding project, mainly focusing on web/game development, data science, and problem-solving algorithms. I aim to save my journey here!
